@@ -7,6 +7,9 @@
 Code for automatic root segmentation of images from BARTZ system, from subarctic grasslands, and further calculations of total root length (TRL) and total root area (TRA). 
 The repository also includes the Label tool, which was used for labeling the training dataset.
 
+![Segm example](triptych.png)
+Segmentation example.
+
 | File | Description |
 |------|-------------|
 | `RS_SAG_data_generation_loop.ipynb` | Execution of the whole pipeline, from loading to segmenting, to calculating TLR and TRA, to saving the results |
